@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Nelson Reis\\OneDrive\\Área de Trabalho\\SENAI\\Exo.WebApi\\Exo.WebApi.csproj": {}
+    "C:\\Users\\Nelson Reis\\OneDrive\\Área de Trabalho\\SENAI\\Exo.WebApi2\\Exo.WebApi.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Nelson Reis\\OneDrive\\Área de Trabalho\\SENAI\\Exo.WebApi\\Exo.WebApi.csproj": {
+    "C:\\Users\\Nelson Reis\\OneDrive\\Área de Trabalho\\SENAI\\Exo.WebApi2\\Exo.WebApi.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Nelson Reis\\OneDrive\\Área de Trabalho\\SENAI\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectUniqueName": "C:\\Users\\Nelson Reis\\OneDrive\\Área de Trabalho\\SENAI\\Exo.WebApi2\\Exo.WebApi.csproj",
         "projectName": "Exo.WebApi",
-        "projectPath": "C:\\Users\\Nelson Reis\\OneDrive\\Área de Trabalho\\SENAI\\Exo.WebApi\\Exo.WebApi.csproj",
+        "projectPath": "C:\\Users\\Nelson Reis\\OneDrive\\Área de Trabalho\\SENAI\\Exo.WebApi2\\Exo.WebApi.csproj",
         "packagesPath": "C:\\Users\\Nelson Reis\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Nelson Reis\\OneDrive\\Área de Trabalho\\SENAI\\Exo.WebApi\\obj\\",
+        "outputPath": "C:\\Users\\Nelson Reis\\OneDrive\\Área de Trabalho\\SENAI\\Exo.WebApi2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Nelson Reis\\AppData\\Roaming\\NuGet\\NuGet.Config"
